@@ -1,5 +1,14 @@
-# golang-learning
+# Golang Learning Repository
 
-Repo for practicing Go basics and exercises. Contains example folders and docs to guide learning.
+This private repository is created for learning Go (Golang)
+from basics to advanced concepts.
 
-See `docs/` for setup and exercises.
+## Topics Covered
+- Simple values and data types
+- Variables and constants
+- For loops
+- Conditional statements (upcoming)
+- Functions (upcoming)
+
+## Goal
+To build a strong foundation in Go for backend and IoT development.
