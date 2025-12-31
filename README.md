@@ -2,6 +2,8 @@
 
 **Master Go (Golang) from basics to advanced with well-commented examples and hands-on exercises — backend- and IoT-focused, and beginner-friendly.**
 
+**Developer:** Suraj Rathod — IoT Engineer
+
 ---
 
 ## 📘 About this repository
@@ -74,3 +76,5 @@ Suggested topics: `go`, `golang`, `backend`, `iot`, `learning`, `tutorial`, `exa
 ---
 
 If you'd like, I can also add example exercises for concurrency, HTTP servers, and IoT-specific patterns next. 🔧
+
+
